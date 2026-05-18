@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+  --color-hungryred-500: oklch(0.627955 0.257683 29.233885);
+}
